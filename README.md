@@ -14,8 +14,6 @@ These AI models are based on Generative Adversarial Networks (GANs) and Stable D
 
 [Nude AI Tools](https://nude-ai.link/)
 
-[AI Hentai Tools](https://ai-hentai.link/)
-
 [Undress AI Tools](https://undress-ai.link/)
 
 [NSFW AI Tools](https://nsfw-ai.directory/)
